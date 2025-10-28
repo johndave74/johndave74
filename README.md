@@ -12,20 +12,30 @@ I am a passionate data professional with extensive experience in analytics, mach
 ---
 
 <p align="left"> 
-  <a href="https://twitter.com/jdmachine74" target="blank"><img src="https://img.shields.io/twitter/follow/jdmachine74?logo=twitter&style=for-the-badge" alt="jdmachine74" /></a> </p> - 
-  
+  <a href="https://twitter.com/jdmachine74" target="blank">
+    <img src="https://img.shields.io/twitter/follow/jdmachine74?logo=twitter&style=for-the-badge" alt="jdmachine74" />
+  </a> 
+</p>
+
+
+<p align="center"> 
 🔭 I'm currently building [CloudTech Analytics](https://cloudtechanalytics.github.io/cloudtech-website/) — an institute dedicated to training individuals and professionals in **Data Analytics and AI**. - 
 
 👯 I’m open to collaborations on [corporate training, curriculum design & mentorship](https://cloudtechanalytics.github.io/cloudtech-website/). - 🤝 I train professionals and organizations on [Excel, Power BI, SQL, Python, SPSS, and Big Data Analytics](https://cloudtechanalytics.github.io/cloudtech-website/). 
 
 👨‍💻 All of my projects are available at [https://github.com/johndave74](https://github.com/johndave74). 
 
-📝 I regularly share insights on [LinkedIn](https://www.linkedin.com/in/john-david-b7b5781b3/). - 💬 Ask me about **SQL, Power BI, AI**. - 📫 How to reach me: **adelekejohndavid@gmail.com**. 
+📝 I regularly share insights on [LinkedIn](https://www.linkedin.com/in/john-david-b7b5781b3/). 
+
+💬 Ask me about **SQL, Power BI, AI**. 
+
+📫 How to reach me: **adelekejohndavid@gmail.com**. 
 
 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/122K8OoDeg0H7zZM6pNckJjiIB_i16xET/view?usp=sharing). 
 
 ⚡ Fun fact: **I’ve trained over 100+ professionals and corporate teams — and I still get excited every time someone says “Now I get it!”**
 
+</p>
 ---
 
 ## 🛠 Skills & Expertise
