@@ -1,7 +1,7 @@
-<h1 align="center">John David</h1>
-<p align="center">
+<h1 align="center">Hi 👋, I'm John David </h1>
+<h3 align="center">
   <strong>Founder of CloudTech Analytics | AI Engineer | ML Engineer | Data Analyst | Business Intelligence Consultant</strong>
-</p>
+</h3>
 
 ---
 
