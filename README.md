@@ -1,29 +1,35 @@
 <div align="center">
 
-<img src="https://repository-images.githubusercontent.com/678715471/b80f7763-9f3e-4452-afb2-1457b31f77fc" width="200" style="border-radius:50%"/>
+<img src="https://cloudtechanalytics.github.io/cloudtech-website/assets/images/logo.png" width="180" style="border-radius:20px;"/>
 
-# Hi, I'm John David 👋  
-**Founder, CloudTech Analytics | AI & ML Engineer | Data & BI Consultant**  
-
-[Website](https://cloudtechanalytics.github.io/cloudtech-website/) • [LinkedIn](https://www.linkedin.com/in/john-david-b7b5781b3/) • [GitHub](https://github.com/johndave74)
+# 👋 Hi, I'm John David
+**Founder, CloudTech Analytics | AI & ML Engineer | Data & BI Consultant**
 
 </div>
 
 ---
 
-## About Me
-
-I'm passionate about **training professionals and organizations in Data Analytics, AI, and Business Intelligence**.  
-I’ve trained over **100+ corporate teams and individuals**, helping them **turn data into actionable insights**.
-
-- 🔭 Currently building [CloudTech Analytics](https://cloudtechanalytics.github.io/cloudtech-website/) — a platform for hands-on learning in **Data Analytics & AI**.  
-- 👨‍💻 All my projects are on [GitHub](https://github.com/johndave74).  
-- 💬 Ask me about **SQL, Power BI, AI & Data Analytics**.  
-- 📫 Reach me at **adelekejohndavid@gmail.com**.  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/your-profile-pic.png" width="180" style="border-radius:50%; border:3px solid #4B0082;" />
+</div>
 
 ---
 
-## Featured Projects
+## 💼 About Me
+
+I'm passionate about **training professionals and organizations in Data Analytics, AI, and Business Intelligence**.  
+
+I’ve trained over **100+ corporate teams and individuals**, helping them **turn data into actionable insights**.  
+
+- 🔭 Currently building [CloudTech Analytics](https://cloudtechanalytics.github.io/cloudtech-website/) — a platform for **hands-on learning in Data Analytics & AI**.  
+- 👨‍💻 All my projects are available at [GitHub](https://github.com/johndave74).  
+- 💬 Ask me about **SQL, Power BI, AI & Data Analytics**.  
+- 📫 Reach me at **adelekejohndavid@gmail.com**.  
+- ⚡ Fun fact: I get excited every time someone says *“Now I get it!”*
+
+---
+
+## 🚀 Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -34,11 +40,11 @@ I’ve trained over **100+ corporate teams and individuals**, helping them **tur
 
 ---
 
-## Training & Courses
+## 🎓 Training & Courses
 
-At **CloudTech Analytics**, we follow a **project-based CRISP-DM approach**:
+**CloudTech Analytics** uses a **project-based CRISP-DM approach**:
 
-1. **Business Understanding** → Define goals, KPIs & metrics  
+1. **Business Understanding** → Goals, KPIs & metrics  
 2. **Data Understanding & Preparation** → Cleaning, transforming, exploring data  
 3. **Modeling** → ML & statistical models  
 4. **Evaluation** → Measure performance & generate insights  
@@ -52,7 +58,7 @@ At **CloudTech Analytics**, we follow a **project-based CRISP-DM approach**:
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-david)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/johndave74)  
