@@ -11,17 +11,18 @@ I am a passionate data professional with extensive experience in analytics, mach
 
 ---
 
-<p align="center"> 
-  <a href="https://twitter.com/jdmachine74" target="blank">
-    <img src="https://img.shields.io/twitter/follow/jdmachine74?logo=twitter&style=for-the-badge" alt="jdmachine74" />
-  </a> 
-  <a href="https://linkedin.com/in/john-david-b7b5781b3/" target="blank">
-    <img src="https://img.shields.io/linkedin/follow/in/john-david-b7b5781b3/?logo=twitter&style=for-the-badge" alt="John David" />
-  </a> 
-  <a href="https://facebook.com/john david" target="blank">
-    <img src="https://img.shields.io/facebook/follow/john-david?logo=twitter&style=for-the-badge" alt="John David" />
-  </a> 
+<p align="center">
+  <a href="https://twitter.com/jdmachine74" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/jdmachine74?logo=twitter&style=for-the-badge" alt="Follow on Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/john-david-b7b5781b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-the-badge" alt="Follow on LinkedIn" />
+  </a>
+  <a href="https://facebook.com/johndavid" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook&style=for-the-badge" alt="Follow on Facebook" />
+  </a>
 </p>
+
 
 <!-- <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=johndave74&label=Profile%20views&color=0e75b6&style=flat" alt="johndave74" /> 
