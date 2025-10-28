@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://cloudtechanalytics.github.io/cloudtech-website/assets/images/logo.png" width="180" style="border-radius:20px;"/>
+<img src="![cover photo](https://github.com/user-attachments/assets/464c2ea3-b7af-4fa7-9678-dabe2c535888)
+" width="180" style="border-radius:20px;"/>
 
 # 👋 Hi, I'm John David
 **Founder, CloudTech Analytics | AI & ML Engineer | Data & BI Consultant**
@@ -10,7 +11,8 @@
 ---
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/your-profile-pic.png" width="180" style="border-radius:50%; border:3px solid #4B0082;" />
+<img src="![john_podcast](https://github.com/user-attachments/assets/8e828eb1-822c-45b0-b5bb-1fd4d36e85b2)
+" width="180" style="border-radius:50%; border:3px solid #4B0082;" />
 </div>
 
 ---
