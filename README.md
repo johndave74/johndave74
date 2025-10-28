@@ -18,10 +18,11 @@ I am a passionate data professional with extensive experience in analytics, mach
 </p>
 
 
-<p align="center"> 
-🔭 I'm currently building [CloudTech Analytics](https://cloudtechanalytics.github.io/cloudtech-website/) — an institute dedicated to training individuals and professionals in **Data Analytics and AI**. - 
+🔭 I'm currently building [CloudTech Analytics](https://cloudtechanalytics.github.io/cloudtech-website/) — an institute dedicated to training individuals and professionals in **Data Analytics and AI**.
 
-👯 I’m open to collaborations on [corporate training, curriculum design & mentorship](https://cloudtechanalytics.github.io/cloudtech-website/). - 🤝 I train professionals and organizations on [Excel, Power BI, SQL, Python, SPSS, and Big Data Analytics](https://cloudtechanalytics.github.io/cloudtech-website/). 
+👯 I’m open to collaborations on [corporate training, curriculum design & mentorship](https://cloudtechanalytics.github.io/cloudtech-website/). 
+
+🤝 I train professionals and organizations on [Excel, Power BI, SQL, Python, SPSS, and Big Data Analytics](https://cloudtechanalytics.github.io/cloudtech-website/). 
 
 👨‍💻 All of my projects are available at [https://github.com/johndave74](https://github.com/johndave74). 
 
