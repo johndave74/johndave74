@@ -17,6 +17,14 @@ I am a passionate data professional with extensive experience in analytics, mach
   </a> 
 </p>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=johndave74&label=Profile%20views&color=0e75b6&style=flat" alt="johndave74" /> 
+</p> 
+
+<p align="right"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johndave74" alt="johndave74" /></a> 
+</p>
+
 
 🔭 I'm currently building [CloudTech Analytics](https://cloudtechanalytics.github.io/cloudtech-website/) — an institute dedicated to training individuals and professionals in **Data Analytics and AI**.
 
@@ -37,6 +45,7 @@ I am a passionate data professional with extensive experience in analytics, mach
 ⚡ Fun fact: **I’ve trained over 100+ professionals and corporate teams — and I still get excited every time someone says “Now I get it!”**
 
 </p>
+
 ---
 
 ## 🛠 Skills & Expertise
