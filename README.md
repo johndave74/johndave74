@@ -13,12 +13,12 @@ I am a passionate data professional with extensive experience in analytics, mach
 
 ## 🛠 Skills & Expertise
 
-| **Data Science & AI** | **Business Intelligence** |
-|-----------------------|---------------------------|
-| 🧠 Python & SQL        | 📊 Power BI, Tableau      |
-| 🤖 Machine Learning    | 📈 Dashboards & Reporting |
-| 📝 NLP & Predictive Analytics | 📌 KPI Design & Metrics |
-| 📊 Statistical Analysis | 📖 Data Storytelling      |
+| **Data Science & AI** | **Business Intelligence** | **Software & Tools** | **Other Skills** |
+|-----------------------|---------------------------| -----------------------|---------------------------
+| 🧠 Python & SQL        | 📊 Power BI, Tableau      | 💻 Excel (Advanced)  | 📅 Project Management |
+| 🤖 Machine Learning    | 📈 Dashboards & Reporting | 🖥 Microsoft 365     | 🎓 Training & Mentorship |
+| 📝 NLP & Predictive Analytics | 📌 KPI Design & Metrics | 🗄 Data Warehousing   | 🏫 Curriculum Design |
+| 📊 Statistical Analysis | 📖 Data Storytelling      | ☁️ Big Data Tools     | 🌟 CloudTech Initiatives |
 
 | **Software & Tools** | **Other Skills** |
 |---------------------|----------------|
@@ -26,17 +26,6 @@ I am a passionate data professional with extensive experience in analytics, mach
 | 🖥 Microsoft 365     | 🎓 Training & Mentorship |
 | 🗄 Data Warehousing   | 🏫 Curriculum Design |
 | ☁️ Big Data Tools     | 🌟 CloudTech Initiatives |
-
----
-
-## 🚀 Roles & Icons
-
-| Role | Icon |
-|------|------|
-| Data Analyst | 🟢 DA |
-| Data Scientist | 🔵 DS |
-| Business Analyst | 🟡 BA |
-| AI Engineer | 🟣 AI |
 
 ---
 
