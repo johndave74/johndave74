@@ -17,13 +17,13 @@ I am a passionate data professional with extensive experience in analytics, mach
   </a> 
 </p>
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=johndave74&label=Profile%20views&color=0e75b6&style=flat" alt="johndave74" /> 
 </p> 
 
 <p align="right"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johndave74" alt="johndave74" /></a> 
-</p>
+</p> -->
 
 
 🔭 I'm currently building [CloudTech Analytics](https://cloudtechanalytics.github.io/cloudtech-website/) — an institute dedicated to training individuals and professionals in **Data Analytics and AI**.
