@@ -1,82 +1,62 @@
-# John David | CloudTech Analytics
+<div align="center">
 
-## 👋 Welcome
+<img src="https://repository-images.githubusercontent.com/678715471/b80f7763-9f3e-4452-afb2-1457b31f77fc" width="200" style="border-radius:50%"/>
 
-Hi, I'm **John David**, Founder of **CloudTech Analytics** — training professionals in **Data Analytics, AI, and Business Intelligence**.  
+# Hi, I'm John David 👋  
+**Founder, CloudTech Analytics | AI & ML Engineer | Data & BI Consultant**  
 
-> “I’ve trained over 100+ professionals and corporate teams — and I still get excited every time someone says ‘Now I get it!’”
+[Website](https://cloudtechanalytics.github.io/cloudtech-website/) • [LinkedIn](https://www.linkedin.com/in/john-david-b7b5781b3/) • [GitHub](https://github.com/johndave74)
 
----
-
-## 💼 About Me
-
-- 🔭 Currently building [CloudTech Analytics](https://cloudtechanalytics.github.io/cloudtech-website/) — an institute dedicated to **Data Analytics and AI training**.  
-- 👯 Open to collaborations on [corporate training, curriculum design & mentorship](https://cloudtechanalytics.github.io/cloudtech-website/).  
-- 🤝 Training professionals and organizations in **Excel, Power BI, SQL, Python, SPSS, and Big Data Analytics**.  
-- 👨‍💻 All projects are available at [GitHub](https://github.com/johndave74).  
-- 📝 Sharing insights regularly on [LinkedIn](https://www.linkedin.com/in/john-david-b7b5781b3/).  
-- 📫 Contact: **adelekejohndavid@gmail.com**
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## About Me
 
-| Project | Tech | Description |
-|---------|------|-------------|
-| [Superstore Sales Analysis](https://github.com/johndave74/superstore-analysis) | Power BI | Dashboard & Insights |
-| [Fake News Detection](https://github.com/johndave74/fake-news-detection) | Python & NLP | ML Project |
-| [US Election Analysis](https://github.com/johndave74/us-election-analysis) | Python / Excel | Analytics & Visualization |
-| [Elite Bike Analytics](https://github.com/johndave74/elite-bike-analysis) | SQL / Data Warehouse | Business Intelligence |
+I'm passionate about **training professionals and organizations in Data Analytics, AI, and Business Intelligence**.  
+I’ve trained over **100+ corporate teams and individuals**, helping them **turn data into actionable insights**.
+
+- 🔭 Currently building [CloudTech Analytics](https://cloudtechanalytics.github.io/cloudtech-website/) — a platform for hands-on learning in **Data Analytics & AI**.  
+- 👨‍💻 All my projects are on [GitHub](https://github.com/johndave74).  
+- 💬 Ask me about **SQL, Power BI, AI & Data Analytics**.  
+- 📫 Reach me at **adelekejohndavid@gmail.com**.  
 
 ---
 
-## 🎓 CloudTech Analytics Training
+## Featured Projects
 
-**Framework:** Project-based, industry-aligned **CRISP-DM** approach:
+| Project | Description |
+|---------|-------------|
+| [Superstore Sales Analysis](https://github.com/johndave74/superstore-analysis) | Power BI Dashboard & Insights |
+| [Fake News Detection](https://github.com/johndave74/fake-news-detection) | Python & NLP Project |
+| [US Election Analysis](https://github.com/johndave74/us-election-analysis) | Data Analytics & Visualization |
+| [Elite Bike Analytics](https://github.com/johndave74/elite-bike-analysis) | SQL & Data Warehouse |
 
-1. **Business Understanding** → Goals, KPIs & metrics  
+---
+
+## Training & Courses
+
+At **CloudTech Analytics**, we follow a **project-based CRISP-DM approach**:
+
+1. **Business Understanding** → Define goals, KPIs & metrics  
 2. **Data Understanding & Preparation** → Cleaning, transforming, exploring data  
-3. **Modeling** → Statistical & Machine Learning models  
+3. **Modeling** → ML & statistical models  
 4. **Evaluation** → Measure performance & generate insights  
-5. **Deployment** → Dashboards & real-world reporting  
+5. **Deployment** → Dashboards & reporting  
 
-**Courses Offered:**
-
-| Domain | Courses |
-|--------|--------|
-| Data Analytics | Excel, Power BI, Tableau, SPSS, SQL |
-| Machine Learning / AI | Python for ML, Regression, Classification, NLP |
-| Business Intelligence | Dashboard Design, Data Modeling, KPI Reporting |
-| Big Data / Cloud Tools | Azure, Hive, Kafka, MySQL |
+**Courses Offered:**  
+- **Data Analytics:** Excel, Power BI, Tableau, SPSS, SQL  
+- **Machine Learning / AI:** Python, Regression, Classification, NLP  
+- **Business Intelligence:** Dashboard Design, Data Modeling, KPI Reporting  
+- **Big Data / Cloud Tools:** Azure, Hive, Kafka, MySQL  
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jdmachine74)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-david)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/johndavid)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adelekejohndavid)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@instructorjohndavid)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-david)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/johndave74)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/jdmachine74)  
 
 ---
 
-## 🛠 Languages & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C80F?style=flat-square&logo=power-bi&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=johndave74&layout=compact&show_icons=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndave74&show_icons=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=johndave74)
