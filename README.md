@@ -1,70 +1,66 @@
-<div align="center">
-
-<img src="![cover photo](https://github.com/user-attachments/assets/464c2ea3-b7af-4fa7-9678-dabe2c535888)
-" width="180" style="border-radius:20px;"/>
-
-# 👋 Hi, I'm John David
-**Founder, CloudTech Analytics | AI & ML Engineer | Data & BI Consultant**
-
-</div>
+<h1 align="center">John David</h1>
+<p align="center">
+  <strong>Founder of CloudTech Analytics | AI Engineer | ML Engineer | Data Analyst | Business Intelligence Consultant</strong>
+</p>
 
 ---
 
-<div align="center">
-<img src="![john_podcast](https://github.com/user-attachments/assets/8e828eb1-822c-45b0-b5bb-1fd4d36e85b2)
-" width="180" style="border-radius:50%; border:3px solid #4B0082;" />
-</div>
+## 🌐 About Me
+
+I am a passionate data professional with extensive experience in analytics, machine learning, and business intelligence. I help organizations turn raw data into actionable insights, optimize decision-making, and implement AI-driven solutions. Over the years, I have trained professionals, built dashboards, and delivered impactful projects across multiple industries, including finance, SaaS, and e-commerce. My mission is to empower others to leverage technology for growth, innovation, and measurable results.
 
 ---
 
-## 💼 About Me
+## 🛠 Skills & Expertise
 
-I'm passionate about **training professionals and organizations in Data Analytics, AI, and Business Intelligence**.  
+| **Data Science & AI** | **Business Intelligence** |
+|-----------------------|---------------------------|
+| 🧠 Python & SQL        | 📊 Power BI, Tableau      |
+| 🤖 Machine Learning    | 📈 Dashboards & Reporting |
+| 📝 NLP & Predictive Analytics | 📌 KPI Design & Metrics |
+| 📊 Statistical Analysis | 📖 Data Storytelling      |
 
-I’ve trained over **100+ corporate teams and individuals**, helping them **turn data into actionable insights**.  
-
-- 🔭 Currently building [CloudTech Analytics](https://cloudtechanalytics.github.io/cloudtech-website/) — a platform for **hands-on learning in Data Analytics & AI**.  
-- 👨‍💻 All my projects are available at [GitHub](https://github.com/johndave74).  
-- 💬 Ask me about **SQL, Power BI, AI & Data Analytics**.  
-- 📫 Reach me at **adelekejohndavid@gmail.com**.  
-- ⚡ Fun fact: I get excited every time someone says *“Now I get it!”*
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [Superstore Sales Analysis](https://github.com/johndave74/superstore-analysis) | Power BI Dashboard & Insights |
-| [Fake News Detection](https://github.com/johndave74/fake-news-detection) | Python & NLP Project |
-| [US Election Analysis](https://github.com/johndave74/us-election-analysis) | Data Analytics & Visualization |
-| [Elite Bike Analytics](https://github.com/johndave74/elite-bike-analysis) | SQL & Data Warehouse |
+| **Software & Tools** | **Other Skills** |
+|---------------------|----------------|
+| 💻 Excel (Advanced)  | 📅 Project Management |
+| 🖥 Microsoft 365     | 🎓 Training & Mentorship |
+| 🗄 Data Warehousing   | 🏫 Curriculum Design |
+| ☁️ Big Data Tools     | 🌟 CloudTech Initiatives |
 
 ---
 
-## 🎓 Training & Courses
+## 🚀 Roles & Icons
 
-**CloudTech Analytics** uses a **project-based CRISP-DM approach**:
-
-1. **Business Understanding** → Goals, KPIs & metrics  
-2. **Data Understanding & Preparation** → Cleaning, transforming, exploring data  
-3. **Modeling** → ML & statistical models  
-4. **Evaluation** → Measure performance & generate insights  
-5. **Deployment** → Dashboards & reporting  
-
-**Courses Offered:**  
-- **Data Analytics:** Excel, Power BI, Tableau, SPSS, SQL  
-- **Machine Learning / AI:** Python, Regression, Classification, NLP  
-- **Business Intelligence:** Dashboard Design, Data Modeling, KPI Reporting  
-- **Big Data / Cloud Tools:** Azure, Hive, Kafka, MySQL  
+| Role | Icon |
+|------|------|
+| Data Analyst | 🟢 DA |
+| Data Scientist | 🔵 DS |
+| Business Analyst | 🟡 BA |
+| AI Engineer | 🟣 AI |
 
 ---
 
-## 🌐 Connect With Me
+## 📂 Projects & Highlights
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-david)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/johndave74)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/jdmachine74)  
+- **SaaS Subscription Analytics** – Optimized revenue insights & churn analysis  
+- **Call Center Analytics** – Dashboard for operational efficiency  
+- **E-Commerce Data Engineering** – End-to-end Python & SQL pipeline  
+- **Power BI Superstore & Amazon Prime Analysis** – Deep insights & visualization  
+- **US Election Analytics** – Predictive modeling & voter behavior analysis  
 
 ---
 
+## 📫 Contact Me
+
+- ✉️ Email: [youremail@domain.com](mailto:youremail@domain.com)  
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](#)  
+- 🌐 Portfolio: [cloudtechanalytics.com](#)  
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analyst-🟢-informational?style=for-the-badge&logo=analytics" /> 
+  <img src="https://img.shields.io/badge/Data%20Scientist-🔵-informational?style=for-the-badge&logo=python" /> 
+  <img src="https://img.shields.io/badge/Business%20Analyst-🟡-informational?style=for-the-badge&logo=microsoft-excel" /> 
+  <img src="https://img.shields.io/badge/AI%20Engineer-🟣-informational?style=for-the-badge&logo=tensorflow" />
+</p>
