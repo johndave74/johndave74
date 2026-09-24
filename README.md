@@ -28,13 +28,13 @@ This profile holds both sides of that work: the products I'm building, and 92 an
 <img src="assets/tile-cloudtech.svg" width="44" height="44" alt=""/>
 <h3>CloudTech Analytics</h3>
 <p>My company. We build software for industries with complex workflows, and train people in data and AI.</p>
-<p><a href="https://cloudtech-analytics.vercel.app">Visit</a> · <a href="https://github.com/CloudTechAnalytics/cloudtech-analytics">Code</a></p>
+<p><a href="https://cloudtech-analytics.vercel.app">Visit</a></p>
 </td>
 <td width="50%" valign="top">
 <img src="assets/tile-counsel.svg" width="44" height="44" alt=""/>
 <h3>The Counsel</h3>
 <p>Legal practice management for law firms: matters, clients, documents, hearings and billing.</p>
-<p><a href="https://thecounsels.org">Visit</a> · <a href="https://github.com/johndave74/thecounsel">Code</a></p>
+<p><a href="https://thecounsels.org">Visit</a></p>
 </td>
 </tr>
 <tr>
@@ -42,13 +42,13 @@ This profile holds both sides of that work: the products I'm building, and 92 an
 <img src="assets/tile-manifest.svg" width="44" height="44" alt=""/>
 <h3>The Manifest</h3>
 <p>Operations software for freight forwarders, from quotation and customs to billing.</p>
-<p><a href="https://the-manifest-test.vercel.app">Visit</a> · <a href="https://github.com/johndave74/Freight-Forwarding">Code</a></p>
+<p><a href="https://the-manifest-test.vercel.app">Visit</a> </p>
 </td>
 <td width="50%" valign="top">
 <img src="assets/tile-oneport.svg" width="44" height="44" alt=""/>
 <h3>OnePort Agency</h3>
 <p>Port agency management: vessel operations, cargo dispatch, documents and disbursements.</p>
-<p><a href="https://oneport-agenc.vercel.app">Visit</a> · <a href="https://github.com/johndave74/oneport-agenc">Code</a></p>
+<p><a href="https://oneport-agenc.vercel.app">Visit</a></p>
 </td>
 </tr>
 </table>
