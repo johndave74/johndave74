@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="John Adeleke. Data analyst, founder of CloudTech Analytics.">
+  <style>
+    .tile { transform-box: fill-box; transform-origin: center; opacity: 0; animation: pop .7s cubic-bezier(.22,1,.36,1) forwards; }
+    .role { opacity: 0; animation: cycle 12s infinite; }
+    .bar { transform-box: fill-box; transform-origin: bottom; transform: scaleY(0); animation: grow .9s cubic-bezier(.22,1,.36,1) forwards; }
+    @keyframes grow { to { transform: scaleY(1); } }
+    .rule { stroke-dasharray: 120; stroke-dashoffset: 120; animation: draw 1.4s .6s cubic-bezier(.22,1,.36,1) forwards; }
+    @keyframes pop { from { opacity: 0; transform: scale(.55); } to { opacity: 1; transform: none; } }
+    @keyframes cycle {
+      0% { opacity: 0; transform: translateY(10px); }
+      4%, 21% { opacity: 1; transform: none; }
+      25%, 100% { opacity: 0; transform: translateY(-10px); }
+    }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .tile, .rule, .bar { animation: none; opacity: 1; stroke-dashoffset: 0; transform: none; }
+      .role { animation: none; }
+      .role:first-of-type { opacity: 1; }
+    }
+  </style>
+  <rect width="1200" height="330" rx="24" fill="#F8F5EF"/>
+  <rect x="0.5" y="0.5" width="1199" height="329" rx="23.5" fill="none" stroke="#E6E0D2"/>
+  <g transform="translate(96 88) scale(0.2258)">
+    <rect class="tile" style="animation-delay:0s" x="0" y="0" width="170" height="170" rx="30" fill="#C9A45C"/>
+    <rect class="tile" style="animation-delay:0.09s" x="256" y="0" width="170" height="170" rx="30" fill="#E4DACA"/>
+    <rect class="tile" style="animation-delay:0.18s" x="512" y="0" width="170" height="170" rx="30" fill="#E4DACA"/>
+    <rect class="tile" style="animation-delay:0.27s" x="0" y="256" width="170" height="170" rx="30" fill="#E4DACA"/>
+    <rect class="tile" style="animation-delay:0.36s" x="0" y="512" width="170" height="170" rx="30" fill="#E4DACA"/>
+    <rect class="tile" style="animation-delay:0.44999999999999996s" x="256" y="256" width="426" height="426" rx="44" fill="#E4DACA"/>
+  </g>
+  <text x="300" y="112" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="4" fill="#A67E35">DATA · SOFTWARE · TRAINING</text>
+  <text x="298" y="188" font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-size="76" font-weight="500" fill="#171717">John Adeleke</text>
+  <line class="rule" x1="300" y1="210" x2="420" y2="210" stroke="#C9A45C" stroke-width="2"/>
+  <g>
+    <text class="role" style="animation-delay:0s" x="300" y="246" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="25" fill="#5E5A52">Data analyst in logistics and operations</text>
+    <text class="role" style="animation-delay:3s" x="300" y="246" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="25" fill="#5E5A52">Founder of CloudTech Analytics</text>
+    <text class="role" style="animation-delay:6s" x="300" y="246" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="25" fill="#5E5A52">Building The Counsel and The Manifest</text>
+    <text class="role" style="animation-delay:9s" x="300" y="246" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="25" fill="#5E5A52">Teaching SQL, Power BI and Python</text>
+  </g>
+  <g transform="translate(900 84)">
+    <rect class="bar" style="animation-delay:0.5s" x="0" y="114" width="20" height="46" rx="5" fill="#E4DACA"/>
+    <rect class="bar" style="animation-delay:0.58s" x="32" y="90" width="20" height="70" rx="5" fill="#E4DACA"/>
+    <rect class="bar" style="animation-delay:0.66s" x="64" y="102" width="20" height="58" rx="5" fill="#E4DACA"/>
+    <rect class="bar" style="animation-delay:0.74s" x="96" y="64" width="20" height="96" rx="5" fill="#E4DACA"/>
+    <rect class="bar" style="animation-delay:0.8200000000000001s" x="128" y="76" width="20" height="84" rx="5" fill="#E4DACA"/>
+    <rect class="bar" style="animation-delay:0.9s" x="160" y="40" width="20" height="120" rx="5" fill="#E4DACA"/>
+    <rect class="bar" style="animation-delay:0.98s" x="192" y="10" width="20" height="150" rx="5" fill="#C9A45C"/>
+    <line x1="-8" y1="168" x2="220" y2="168" stroke="#E6E0D2" stroke-width="2"/>
+  </g>
+</svg>
