@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://cloudtech-analytics.vercel.app"><img src="https://img.shields.io/badge/CloudTech%20Analytics-B38A3E?style=for-the-badge" alt="CloudTech Analytics" height="30"/></a>
+  <a href="https://cloudtechanalytics.com"><img src="https://img.shields.io/badge/CloudTech%20Analytics-B38A3E?style=for-the-badge" alt="CloudTech Analytics" height="30"/></a>
   <a href="https://www.linkedin.com/in/john-david-b7b5781b3/"><img src="https://img.shields.io/badge/LinkedIn-B38A3E?style=for-the-badge" alt="LinkedIn" height="30"/></a>
   <a href="mailto:adelekejohndavid@gmail.com"><img src="https://img.shields.io/badge/Email-B38A3E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/></a>
   <a href="https://drive.google.com/file/d/122K8OoDeg0H7zZM6pNckJjiIB_i16xET/view?usp=sharing"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-B38A3E?style=for-the-badge&logo=googledrive&logoColor=white" alt="Résumé" height="30"/></a>
