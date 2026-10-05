@@ -14,7 +14,7 @@
 
 I'm a data analyst in **logistics and operations analytics**, based in Lagos. My day-to-day is shipping and port data: vessel turnaround, cargo throughput, and the dashboards and automated reports that sit on top of them.
 
-I also founded **[CloudTech Analytics](https://cloudtech-analytics.vercel.app)**, where we build software for industries with complex workflows and teach people to work with data. I've designed and delivered corporate training in SQL, Power BI, Excel and big data tools, including programmes for teams at Union Bank of Nigeria and Chevron Nigeria.
+I also founded **[CloudTech Analytics](https://cloudtechanalytics.com)**, where we build software for industries with complex workflows and teach people to work with data. I've designed and delivered corporate training in SQL, Power BI, Excel and big data tools, including programmes for teams at Union Bank of Nigeria and Chevron Nigeria.
 
 This profile holds both sides of that work: the products I'm building, and 92 analytics, machine learning and SQL projects.
 
